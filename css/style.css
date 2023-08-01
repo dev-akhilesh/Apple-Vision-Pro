@@ -608,7 +608,6 @@ body {
   height: 100vh;
   width: 100vw;
   background-color: #000;
-  /* margin-top: 5rem; */
 }
 #page23 > img {
   height: 100%;
@@ -624,14 +623,11 @@ body {
   justify-content: center;
   color: #fff;
   position: relative;
-  /* height: 30vh; */
   width: 100vw;
   background-color: #000;
   flex-direction: column;
   text-align: center;
   font-size: 1.5vw;
-  /* padding-top: 5rem; */
-  /* margin-bottom: 50px; */
 }
 .overlay > h5 {
   width: 35%;
