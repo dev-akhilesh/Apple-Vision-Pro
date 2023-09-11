@@ -32,3 +32,6 @@ To run this project locally, follow these steps:
 3. Open the index.html file in your web browser.
 
 4. Explore the Apple Vision Pro clone, interact with the elements, and experience the smooth animations.
+
+## Credits
+Apple Vision Pro original website: https://www.apple.com/apple-vision-pro/
